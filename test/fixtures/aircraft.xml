@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AircraftItems query="AircraftByKey" total="1" 
+xmlns="https://server.fseconomy.net"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:schemaLocation="https://server.fseconomy.net/static/xsd/datafeed_aircraft.xsd"
+>
+    <Aircraft>
+        <SerialNumber>6347</SerialNumber>
+        <MakeModel>Cessna 172 Skyhawk</MakeModel>
+        <Registration>VH-MFTS</Registration>
+        <Owner>Ocker Air (Squog)</Owner>
+        <Location>YMES</Location>
+        <LocationName>East Sale (Military), East Sale, Victoria, Australia</LocationName>
+        <Home>YGLB</Home>
+        <SalePrice>0.00</SalePrice>
+        <SellbackPrice>113831.00</SellbackPrice>
+        <Equipment>IFR/AP/GPS</Equipment>
+        <RentalDry>0.00</RentalDry>
+        <RentalWet>0.00</RentalWet>
+        <RentalType>hour</RentalType>
+        <Bonus>0</Bonus>
+        <RentalTime>10800</RentalTime>
+        <RentedBy>Not rented.</RentedBy>
+        <FuelPct>0.27</FuelPct>
+        <NeedsRepair>0</NeedsRepair>
+        <AirframeTime>165:34</AirframeTime>
+        <EngineTime>165:34</EngineTime>
+        <TimeLast100hr>69:55</TimeLast100hr>
+        <LeasedFrom>Dragon9</LeasedFrom>
+        <MonthlyFee>1141.00</MonthlyFee>
+        <FeeOwed>0.00</FeeOwed>
+    </Aircraft>
+    <Aircraft>
+        <SerialNumber>1234</SerialNumber>
+        <MakeModel>Spruce Goose</MakeModel>
+        <Registration>VH-GOOSEY</Registration>
+        <Owner>Ocker Air (Squog)</Owner>
+        <Location>YMUM</Location>
+        <LocationName>Yamum, Victoria</LocationName>
+        <Home>YGLB</Home>
+        <SalePrice>0.00</SalePrice>
+        <SellbackPrice>113831.00</SellbackPrice>
+        <Equipment>IFR/AP/GPS</Equipment>
+        <RentalDry>0.00</RentalDry>
+        <RentalWet>0.00</RentalWet>
+        <RentalType>hour</RentalType>
+        <Bonus>0</Bonus>
+        <RentalTime>10800</RentalTime>
+        <RentedBy>Not rented.</RentedBy>
+        <FuelPct>0.27</FuelPct>
+        <NeedsRepair>0</NeedsRepair>
+        <AirframeTime>165:34</AirframeTime>
+        <EngineTime>165:34</EngineTime>
+        <TimeLast100hr>69:55</TimeLast100hr>
+        <LeasedFrom>Loosey</LeasedFrom>
+        <MonthlyFee>1141.00</MonthlyFee>
+        <FeeOwed>0.00</FeeOwed>
+    </Aircraft>
+</AircraftItems>
